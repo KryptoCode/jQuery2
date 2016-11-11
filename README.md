@@ -3,6 +3,8 @@
 Listo with jQuery
 =================
 
+![alt text](./to-do-app.png?raw=true, "screenshot")
+
 #Objective
 
 Create an interactive "to-do" list with jQuery
